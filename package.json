@@ -1,6 +1,7 @@
 {
   "name": "carlton",
   "version": "0.0.1",
+  "main": "carlton.js",
   "dependencies": {
     "chai": "^4.3.6",
     "es6-template-strings": "^2.0.1",
